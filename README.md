@@ -26,4 +26,9 @@ Para configurar e executar o projeto:
 - **`src/`:** Contém o código-fonte Java do projeto.
 - **`sql/`:** Contém scripts SQL para criação do banco de dados e tabelas.
 
+   **Tela do sistema:**
+ 
+  ![CRUDJAVATELA](https://github.com/HenriqueBent0/CRUD-Java/assets/166830118/80e52f85-9b96-4483-ac41-2e4d80eba489)
+
+
 
