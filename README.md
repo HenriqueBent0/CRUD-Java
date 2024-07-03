@@ -18,8 +18,12 @@ Este projeto consiste em um aplicativo simples de CRUD (Create, Read, Update, De
 ## Como Configurar e Executar
 Para configurar e executar o projeto:
 
-1. Configure um servidor ou sistema de banco de dados SQL.
-2. Importe o projeto em seu ambiente de desenvolvimento Java.
-3. Compile e execute o projeto para iniciar a aplicação CRUD.
+1. **Configurar o Banco de Dados:**
+   - Configure um servidor MySQL ou utilize um banco de dados local.
+   - Execute o script SQL fornecido em `banco.sql` para criar o banco de dados e as tabelas necessárias (`usuario`).
+
+### Estrutura do Projeto
+- **`src/`:** Contém o código-fonte Java do projeto.
+- **`sql/`:** Contém scripts SQL para criação do banco de dados e tabelas.
 
 
